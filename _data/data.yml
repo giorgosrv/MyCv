@@ -44,9 +44,10 @@ sidebar:
 
 career-profile:
     title: About me
-    summary: |
-    
-    I am a graduate of the Department of Informatics at the Ionian University. I have developed basic skills in some programming languages. Another key point I want to make is that I am hardworking and I try hard to get the best results, as I also happen to be a perfectionist.
+    summary:|
+        I am a graduate of the Department of Informatics at the Ionian University. 
+        I have developed basic skills in some programming languages. 
+        Another key point I want to make is that I am hardworking and I try hard to get the best results, as I also happen to be a perfectionist.
 
 education:
     - degree: Computer Science
