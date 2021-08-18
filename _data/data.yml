@@ -31,8 +31,8 @@ sidebar:
       - idiom: English
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: 
+        level: 
 
     interests:
       - item: basketball
@@ -41,7 +41,7 @@ sidebar:
       - item: 
         link:
 
-      - item: Cooking
+      - item:
         link:
 
 career-profile:
@@ -66,7 +66,7 @@ education:
 
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills 
 
     toolset:
     
