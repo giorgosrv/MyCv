@@ -172,11 +172,11 @@ skills:
       - name: Angular
         level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
+      #- name: HTML5 & CSS
+      #  level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+     # - name: Ruby on Rails
+      #  level: 85%
 
       #- name: Sketch & Photoshop
       #  level: 60%
