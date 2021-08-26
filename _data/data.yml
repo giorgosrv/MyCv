@@ -117,8 +117,8 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: c 
-        level: 50%
+      - name: C  & C++
+        level: 40%
 
       - name: Javascript 
         level: 40%
@@ -127,7 +127,7 @@ skills:
         level: 40%
 
       - name: HTML5 
-        level: 70%
+        level: 500%
 
       - name: Social Media
         level: 80%
