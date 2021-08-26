@@ -1,28 +1,32 @@
-#
+---
 # Be aware that even a small syntax error here can lead to failures in output.
-#
-
+# Settings
+fontsize: 10pt
+geometry: "a4paper, left=35mm, right=35mm, top=51mm, bottom=17mm"
+lang: en-us
+mainfont: "Latin Modern Sans"
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: George Rouvas
-    tagline: Graduate of the IT department
-    avatar: 2.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Dimitris Vasiliou
+    tagline: Department of Informatics Undergraduate Student
+    avatar: photoformyCV.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: rouvasgr@gmail.com
-    phone: 6940169342
-   # website: blog.webjeda.com #do not add http://
-    linkedin: www.linkedin.com/in/giorgos-rouvas-5b4067218/
-    github: giorgosrv
+    email: dimitris.123666@gmail.com
+    phone: +357 99795060
+   #website: dimitrisvasiliou.github.io/resume-cv #do not add http://
+    linkedin: dimitris vasiliou
+    github: dimitrisvasiliou
     gitlab:
     bitbucket:
-    #twitter: '@webjeda'
-   # stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter: 
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
+    instagram: dimitrisvasiliou96
 
     languages:
       - idiom: Greek
@@ -31,154 +35,184 @@ sidebar:
       - idiom: English
         level: Professional
 
-     # - idiom: 
-       # level: 
+      #- idiom: Spanish
+      #  level: Professional
 
     interests:
-      - item: Basketball
+      - item: Football
         link:
 
-      - item: Skiing
+      - item: Music
         link:
-
-      - item: Cooking
+        
+      - item: Photography
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      I am currently a graduate of the Ionian University Department of Informatics.
-      This helped me to develop basic skills in some programming languages, which were enhanced by choosing to study Information Systems.
-      
-     
+      I am currently a fourth-year undergraduate student at Ionian University studying in the department of informatics.
+      This aided me to develop basic skills in some programming languages, 
+      which were reinforced by selecting to study Information Systems. 
 education:
-    - degree: Computer Science
-      university: Ionian University 
-      time: 2016 - 2021
+    - degree: BSc in Computer Science
+      university: Ionian University
+      time: 4th year 
       details: |
-        My time during University is the most enlightening and demanding challenge of my life. 
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: 
-      university:
-      time: 
+        My time during University is the most enlightening and demanding challenge of my life.
+        It motivates me to come across difficult tasks which include taking risks,
+        as it's in my nature to be bold. The University has provided me with the 
+        opportunity to develop multiple basic programming skills in:   
+        - Java and Javascript
+        - Python 
+        - C and C++
+        - Phaser Game Engine( HTML and JS)
+       
+                Grade point average: 7.24/10
+         
+    - degree: Army Service 
+      university: National Army Service, Cyprus
+      time: 2014 - 2016
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-experience:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+       During my military service I served in the 70th engineer battalion ( in Nicosia).
+       Throughout my experience I managed to gain some fundamental skills,
+       such as leadership and teamwork, which have accompanied me ever since. 
+       Being a soldier has taught me the meaning of discipline and responsibility, 
+       as well as alertness and composure in times of emergency.
+       
+    - degree: Higher Secondary Education
+      university: Lyceum of Pallourgiotissas
+      time: 2011-2014
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        I graduated from Pallouriotissa high-school with orientation in the following formal science's classes:
+        Maths, Psysics, Biology and Computer Science. 
+        
+                Grade point average: 17.5/20
+         
+    - degree: Football Career 
+      university: 
+      time: 2006 - 2020
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        I was playing football since I was 7 years old. I have been playing in the first division
+        in U13, U15, U17 and U21 in the Cyprus Football Association.
+        Now I am playing in amateur level in Greece.
+        
+            
+    #- degree: BSc in Applied Mathematics
+     # university: Bristol University
+      #time: 2007 - 2011
+      #details: |
+       # Describe your study here lorem ipsum dolor sit amet, consectetuer
+        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        #sociis natoque penatibus et magnis dis parturient montes, nascetur
+        #ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        #pretium quis, sem.
+
+         # - Bullet point
+          #- Bullet point
+
+#experiences:
+    #- role: Army Service
+    #  time: 2014 - 2016
+    #  company: National Army Service, Cyprus
+      #details: |
+        
+
+         # - Bullet point
+         #- Bullet point
+
+    #- role: Senior Software Engineer
+     # time: 2014 - 2015
+      #company: Google, London
+      #details: |
+       # Describe your role here lorem ipsum dolor sit amet, consectetuer
+       # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+       # Cum sociis natoque penatibus et magnis dis parturient montes,
+       # nascetur ridiculus mus. Donec quam felis, ultricies nec,
+       # pellentesque eu, pretium quis, sem.
+
+        #  - Bullet point
+         # - Bullet point
+
+    #- role: UI Developer
+     # time: 2012 - 2014
+      #company: Amazon, London
+      #details: |
+       # Describe your role here lorem ipsum dolor sit amet, consectetuer
+        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        #Cum sociis natoque penatibus et magnis dis parturient montes,
+        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        #pellentesque eu, pretium quis, sem.
+
+         # - Bullet point
+          #- Bullet point
+          
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+        "One major project assigned by the University was the analysis and design of a current or original Information System for an organisation."
+  
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    
+      - title: ANALYSIS AND DESIGN OF INFORMATION SYSTEMS
+        link: "ΑΝΑΛΥΣΗΚΑΙΣΧΕΔΙΑΣΜΟΣ.pdf"
+        tagline: 
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      #- title: DevStudio
+       # link: "#"
+        #tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      #- title: Tempo
+       # link: "#"
+        #tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      #- title: Atom
+       # link: "#"
+        #tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+     # - title: Delta
+      #  link: "#"
+       # tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 #publications:
-   # title: Publications
-   # intro: |
-     # You can list your publications in this section. Lorem ipsum dolor sit
-    # amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#    title: Publications
+ #   intro: |
+  #    You can list your publications in this section. Lorem ipsum dolor sit
+   #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
     #  bibendum fringilla a eu lectus.
-   # papers:
+
+    #papers:
      # - title: The Art of Computer Programming
-     #   authors: Donald E. Knuth
-      #  conference: Addison-Wesley, 1968
+      #  authors: Donald E. Knuth
+       # conference: Addison-Wesley, 1968
 
-     # - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-     #   authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-     #   conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      #- title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+       # authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        #conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-    #  - title: A syntax directed compiler for Algol 60
-    #    authors: Edgar T. Irons
-    #    conference: "Comm. ACM 4 (1961), 51–55"
+      #- title: A syntax directed compiler for Algol 60
+       # authors: Edgar T. Irons
+        #conference: "Comm. ACM 4 (1961), 51–55"
+
 skills:
-    title: Skills 
+    title: Skills &amp; Proficiency
 
     toolset:
-      - name: C++ & C
+      - name: Python 
         level: 50%
 
-      - name: HTML
+      - name: Javascript 
         level: 40%
 
-      - name: Javascript
+      - name: Java
         level: 40%
 
-      #- name: HTML5 & CSS
-      #  level: 95%
+      - name: HTML5 & CSS
+        level: 70%
 
-     # - name: Ruby on Rails
-      #  level: 85%
+      - name: Social Media
+        level: 80%
 
-      #- name: Sketch & Photoshop
-      #  level: 60%
 
-  # footer: >
-     #  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+---
 
