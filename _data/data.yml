@@ -117,7 +117,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python 
+      - name: c 
         level: 50%
 
       - name: Javascript 
@@ -126,7 +126,7 @@ skills:
       - name: Java
         level: 40%
 
-      - name: HTML5 & CSS
+      - name: HTML5 
         level: 70%
 
       - name: Social Media
