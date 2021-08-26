@@ -15,37 +15,37 @@ sidebar:
     avatar: 2.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: dimitris.123666@gmail.com
-    phone: +357 99795060
-   #website: dimitrisvasiliou.github.io/resume-cv #do not add http://
-    linkedin: dimitris vasiliou
-    github: dimitrisvasiliou
+    email: rouvasgr@gmail.com
+    phone: 6974750567
+   
+    linkedin: Giorgos Rouvas
+    github: giorgosrv
     gitlab:
     bitbucket:
     twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    instagram: dimitrisvasiliou96
+  
 
     languages:
       - idiom: Greek
         level: Native
 
       - idiom: English
-        level: Professional
+        level: Good
 
       #- idiom: Spanish
       #  level: Professional
 
     interests:
-      - item: Football
+      - item: Basketball
         link:
 
-      - item: Music
+      - item: Cooking
         link:
         
-      - item: Photography
+      - item: Skiing
         link:
 
 career-profile:
