@@ -18,7 +18,7 @@ sidebar:
     email: rouvasgr@gmail.com
     phone: 6940169342
    
-    linkedin: Giorgos Rouvas
+    linkedin: https://www.linkedin.com/in/giorgos-rouvas-5b4067218/
     github: giorgosrv
     gitlab:
     bitbucket:
@@ -39,13 +39,13 @@ sidebar:
       #  level: Professional
 
     interests:
-      - item: Basketball
+      - item: 
         link:
 
-      - item: Cooking
+      - item: 
         link:
         
-      - item: Skiing
+      - item: 
         link:
 
 career-profile:
@@ -55,17 +55,16 @@ career-profile:
      This has helped me to develop basic skills in some programming languages, which have been enhanced by choosing to study Information Systems. 
      
 education:
-    - degree: BSc in Computer Science
+    - degree: Computer Science 
       university: Ionian University
       time: 2016-2021
       details: |
-        My time during University is the most enlightening and demanding challenge of my life.
-        It motivates me to come across difficult tasks which include taking risks,
-        as it's in my nature to be bold. The University has provided me with the 
-        opportunity to develop multiple basic programming skills in:   
-        - Java and Javascript
-        - Html 
-        - C and C++
+       BSc in Computer Science
+      - degree: Information Technology
+      university: University of Macedonia
+      time: 2022-
+      details: |
+       MS in Information Technology
         
        
                
@@ -109,20 +108,14 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: C  & C++
-        level: 40%
-
-      - name: Javascript 
-        level: 40%
-
+      
       - name: Java
-        level: 40%
+        level: 70%
 
       - name: HTML5 
-        level: 500%
+        level: 40%
 
-      - name: Social Media
-        level: 80%
+     
 
 
 ---
